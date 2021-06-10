@@ -116,7 +116,7 @@ a:hover {
 }
 
 .d-bloc .divider-h span {
-    border-color: rgba(255, 255, 255, .2);
+    border-color: rgba(255, 255, 255, .7);
 }
 
 .d-bloc .a-btn,
@@ -176,7 +176,7 @@ a:hover {
 }
 
 .d-bloc .panel .divider-h span {
-    border-color: rgba(0, 0, 0, .1);
+    border-color: rgba(0, 0, 0, .5);
 }
 
 .d-bloc .panel .a-btn {
@@ -190,7 +190,7 @@ a:hover {
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover {
     color: rgba(0, 0, 0, .7);
-    border-color: rgba(0, 0, 0, .3);
+    border-color: rgba(0, 0, 0, .5);
 }
 
 .d-bloc .panel,
@@ -213,7 +213,7 @@ a:hover {
 
 .d-bloc .panel .divider-h span,
 .l-bloc .divider-h span {
-    border-color: rgba(0, 0, 0, .1);
+    border-color: rgba(0, 0, 0, .5);
 }
 
 .d-bloc .panel .a-btn,
@@ -261,7 +261,7 @@ a:hover {
 .l-bloc .btn-wire,
 .l-bloc .btn-wire:hover {
     color: rgba(0, 0, 0, .7);
-    border-color: rgba(0, 0, 0, .3);
+    border-color: rgba(0, 0, 0, .5);
 }
 
 .voffset {
