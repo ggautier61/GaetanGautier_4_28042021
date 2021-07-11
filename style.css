@@ -1044,3 +1044,18 @@ h4 {
         text-align: center;
     }
 }
+
+.p2,
+.citation {
+    font-size: 18px;
+}   
+
+.citation {
+    font-style: italic;
+    /* padding: 0 30px; */
+    margin-bottom: 3px;
+}
+
+/* .citation + p {
+    font-size: 1.09em;
+} */
