@@ -477,6 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    width: 35px;
 }
 
 .icon-lg {
@@ -700,8 +701,8 @@ p {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    max-width: 500px;
+    margin: auto auto 10px auto;
 }
 
 h2 {
@@ -1056,6 +1057,18 @@ h4 {
     margin-bottom: 3px;
 }
 
-/* .citation + p {
-    font-size: 1.09em;
-} */
+.flex {
+    display: flex;
+}
+
+.social_icon {
+    width: 25px;
+}
+
+.border {
+    border: black;
+}
+
+.margin-b-5 {
+    margin-bottom: 5px;
+}
