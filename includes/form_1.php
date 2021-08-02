@@ -1,7 +1,7 @@
 <?php	
 	if(empty($_POST['name']) && strlen($_POST['name']) == 0 || empty($_POST['email']) && strlen($_POST['email']) == 0 || empty($_POST['input_504']) && strlen($_POST['input_504']) == 0 || empty($_POST['message']) && strlen($_POST['message']) == 0)
 	{
-		return false;
+		return true;
 	}
 	
 	$name = $_POST['name'];
